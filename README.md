@@ -1,7 +1,5 @@
-
-[<img src="https://api.gitsponsors.com/api/badge/img?id=487584394" height="40">](https://api.gitsponsors.com/api/badge/link?p=vQa5DCHO3kNSN6BDrcpd5nrdrCxXpgNlygOFeqZrr2gk/TmopvBQNsRFCd7tcximVccAT0MdIeg/Sz72AVlY+2JpvBd+YzY2v9Ub3/K75JJCgSKODgxNYl5G30iB8PwybPfiKPbVr8cJLW4wpAxb3g==)
-
-[<img src="https://api.gitsponsors.com/api/badge/img?id=487584394" height="40">](https://api.gitsponsors.com/api/badge/link?p=vQa5DCHO3kNSN6BDrcpd5nrdrCxXpgNlygOFeqZrr2gk/TmopvBQNsRFCd7tcximVccAT0MdIeg/Sz72AVlY+2JpvBd+YzY2v9Ub3/K75JJCgSKODgxNYl5G30iB8PwybPfiKPbVr8cJLW4wpAxb3g==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=487584394" height="50">](https://api.gitsponsors.com/api/badge/link?p=vQa5DCHO3kNSN6BDrcpd5s03q9juuaoVABGXrZI2CyYPxvaVErlWwGaV51l3jV1M+pvhRZQRwGA8qR5e1WClF9kwXK0xzSchOGp71LkkpzxS6SfR8UvAdnFIyqQlGEg/kl9p2SfFtoDWJwbyJNQbvg==)
+[<img src="https://api.gitsponsors.com/api/badge/img?id=487584394" height="50">](https://api.gitsponsors.com/api/badge/link?p=vQa5DCHO3kNSN6BDrcpd5s03q9juuaoVABGXrZI2CyYPxvaVErlWwGaV51l3jV1M+pvhRZQRwGA8qR5e1WClF9kwXK0xzSchOGp71LkkpzxS6SfR8UvAdnFIyqQlGEg/kl9p2SfFtoDWJwbyJNQbvg==)
 
 # PotoHEX
 
